@@ -1,0 +1,26 @@
+#block
+{
+    width:300px;
+    display:flex;
+    flex-direction:column;
+    margin:50px;
+    border:2px solid rgb(0, 102, 255);
+}
+div
+{
+    border: 2px solid black;
+}
+header
+{
+    text-align:center;
+    background-color:cornflowerblue;
+    text-color:black;
+    height:80px;
+    wigth:100%;
+}
+content
+{
+    display: flex;
+    justify-content: space-between;
+    width:100%;
+}
